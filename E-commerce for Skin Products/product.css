@@ -1,0 +1,100 @@
+body {
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+.section {
+    background: rgb(30, 165, 189);
+    text-align: center;
+    width: 100%;
+    height: 53px;
+    color: white; 
+    padding: 10px;
+}
+h6 {
+    border-style: solid;
+    border-bottom: thin line #000000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100px;
+}
+.container {
+    padding: 20px 12px 12px 12px;
+    margin: 10px;
+
+}
+.section1 {
+    padding: 10px;
+    display: flex;
+}
+/* footer */
+#footer {
+    text-align: center;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    font-size: 22px;
+}
+#signup {
+    background-color: rgb(187, 181, 181);
+}
+.footer-md {
+    margin-left: 52px;
+    display: flex;
+    font-size: 12px;
+}
+.footer-div {
+    padding: 16px;
+}
+#copy {
+    text-align: center;
+}
+p.social {
+    text-align: center;
+    margin-top: 20px;
+  }
+  p.social a {
+    margin: 0 10px 0 0;
+    color: #fff;
+    display: inline-block;
+    width: 38px;
+    height: 38px;
+    border-radius: 19px;
+    line-height: 38px;
+    font-size: 15px;
+    text-align: center;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    vertical-align: bottom;
+  }
+  p.social a i {
+    vertical-align: bottom;
+    line-height: 38px;
+  }
+  p.social a.facebook {
+    background-color: #ccc;
+  }
+  p.social a.twitter {
+    background-color: #aaa;
+  }
+  p.social a.instagram {
+    background-color: #999;
+  }
+  p.social a.email {
+    background-color: #666;
+  }
+  p.social a.linkedin {
+    background-color: #999;
+  }
+  .section2 {
+    display: flex;
+}
+.container1 {
+    text-align: center;
+    margin: 0;
+}
+span {
+    height: 3px;
+    width: 22px;
+}
